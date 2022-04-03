@@ -1,9 +1,0 @@
-#!/bin/bash
--rwxr-xr-x 1 hp 197121 18 Apr  3 14:46 0-current_working_directory*
--rwxr-xr-x 1 hp 197121 61 Apr  3 00:45 0-current_working_directory.sh*
--rwxr-xr-x 1 hp 197121 17 Apr  3 15:45 1-listit*
--rwxr-xr-x 1 hp 197121 15 Apr  3 15:40 2-bring_me_home*
--rw-r--r-- 1 hp 197121 62 Apr  2 23:18 README.md
--rwxr-xr-x 1 hp 197121 11 Apr  3 14:59 REAMDME.md*
-
-
